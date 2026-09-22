@@ -1,0 +1,4 @@
+interface:
+  display_name: "Career Restart Helper"
+  short_description: "Tailor job-search materials with evidence"
+  default_prompt: "Use $career-restart-helper to tailor my resume and draft a concise application plan for this role."
